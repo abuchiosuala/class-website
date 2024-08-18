@@ -264,6 +264,7 @@ iframe{
 
   .grid{
     display: flex;
-    gap: 500px;
+    gap: 150px;
+    margin-left: 30px;
   }
 </style>
